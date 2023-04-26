@@ -1,0 +1,19 @@
+{
+  "name": "vimeo-timing-object-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base ./",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "abstract-timing-provider": "^0.1.4",
+    "firebase": "^9.20.0",
+    "timing-object": "^3.1.55",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2",
+    "@vimeo/player": "^2.20.1"
+  }
+}
